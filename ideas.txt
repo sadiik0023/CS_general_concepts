@@ -1,0 +1,3 @@
+- every concept gets a code for  it and the math behind it 
+- try to document everything 
+- make it addressed for arabs 
